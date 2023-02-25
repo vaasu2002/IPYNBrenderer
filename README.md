@@ -1,1 +1,1 @@
-# python-project-setup
+# IPYNB renderer python package
